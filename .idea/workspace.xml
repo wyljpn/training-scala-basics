@@ -18,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +34,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="333" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585740584793">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="333" y="221" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740584793" />
+    <state x="33" y="40" key="SettingsEditor" timestamp="1585740932515">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="33" y="40" key="SettingsEditor/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740932515" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1585740948588">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740948588" />
     <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1585737043188">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
