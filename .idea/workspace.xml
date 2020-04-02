@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0621ee69-604e-4f70-8087-2bf8f5f93512" name="Default Changelist" comment="" />
+    <list default="true" id="92c576d0-9bab-42fb-94f1-7f7429291251" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/01-dev-env.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/01-dev-env.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Zw4pdw7MPq3qqzmqBbtYLUPiLz" />
+  <component name="ProjectId" id="1ZxtRxtnNjBQECpflFBvFI7GFGG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,37 +24,48 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0621ee69-604e-4f70-8087-2bf8f5f93512" name="Default Changelist" comment="" />
-      <created>1585737007121</created>
+      <changelist id="92c576d0-9bab-42fb-94f1-7f7429291251" name="Default Changelist" comment="" />
+      <created>1585792568203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585737007121</updated>
+      <updated>1585792568203</updated>
     </task>
+    <task id="LOCAL-00001" summary="test 10:58">
+      <created>1585792731432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585792731432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PlaygroundでHello Worldを実行した写真">
+      <created>1585793773915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585793773915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test 10:58" />
+    <MESSAGE value="PlaygroundでHello Worldを実行した写真" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlaygroundでHello Worldを実行した写真" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="333" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585740584793">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="195" y="23" key="CommitChangelistDialog2" timestamp="1585795641019">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="333" y="221" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740584793" />
-    <state x="33" y="40" key="SettingsEditor" timestamp="1585740932515">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="195" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1585795641019" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585793789370">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="33" y="40" key="SettingsEditor/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740932515" />
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1585740948588">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585740948588" />
-    <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1585737043188">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/1280.23.1920.989/0.23.1280.777@0.23.1280.777" timestamp="1585737043188" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1585793789370" />
   </component>
 </project>
