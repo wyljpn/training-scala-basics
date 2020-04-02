@@ -7,22 +7,7 @@ PlayGround, REPL, IDEで素早くScalaソースコードを書き実行できる
 以下の課題の結果をこのファイルに貼り付けて、Pull Requestを送る形で提出してください
 
 1. オンラインの[Playground](https://scastie.scala-lang.org/)でScalaの`println("Hello World")`を実行し、結果をブラウザのスクリーンショットとして貼り付けてください
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test 10:49
-
-test 10:53
-
-test 10:58
+![9EB4409E-DBB2-426C-90AD-39C4C6CBD862](https://user-images.githubusercontent.com/37242439/78203888-1ce65500-74d3-11ea-92d4-07743560c960.png)
 
 2. 自分のローカルPCのターミナル/コンソールからScala REPLから`println("Hello World")`を実行して結果を文字コピペもしくはスクリーンショットで貼り付けてください
  - 2.1 Adopt Open JDK 8をインストールしてください
