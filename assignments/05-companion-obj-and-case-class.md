@@ -72,5 +72,7 @@ println(p1)
 println(p2)
 ```
 output:
+
 CasePoint(1,2)
+
 CasePoint(10,2)
