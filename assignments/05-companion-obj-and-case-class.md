@@ -28,18 +28,15 @@ object Point{
 2. 上記1.で定義したPointをもとに、「2-2クラスを定義する」にあるPointを呼び出すコード（まず、先程あげたPointを定義することについて考えましょう…の直後です）を再び書いて出力を確認して貼り付けて下さい。`new` が消えることに気づくはずです。
 
 ```scala
-    // newがない場合は、IntelliJでPointをクリックすると、object Pointを使用していることが分かりました。
+    // newがない場合は、object Pointのapplyというメソッドを使って、インスタンスを作る
     val p1: Point = Point(10, 10)
     val p2: Point = Point(100, 100)
     println(math.abs(p1.x - p2.x))
 
-    // newがある場合は、IntelliJでPointをクリックすると、結果が同じですが、class Pointを使用することが分かりました。
+    // newがある場合は、class Pointを使用して、インスタンスを作る
     val p3: Point = new Point(10, 10)
     val p4: Point = new Point(100, 100)
     println(math.abs(p3.x - p4.x))
-
-    // 疑問：
-    //　newがあるか、ないか、何の影響を与える？
 
 ```
 
@@ -50,17 +47,17 @@ object Point{
 ```
 
 ```scala
-    // case classを使ったら、自動的にcompanion objectが生成されて、
-    // newを使わなくてもobjectが生成できるようだ。
+    //　case classをつかたら、companion objectが自動的に作られます。
+    //　そのため、newを使わなくでもインスタンスを作れます。
     val p5: CasePoint = CasePoint(10, 10)
     val p6: CasePoint = CasePoint(100, 100)
     println(math.abs(p5.x-p6.x))
 
-    // case classの場合にもnewを書いても結果は同じです。しかし、newが灰色になってしまった。なの原因？
-    // こちらはcompanion objectを使うか、CasePoint classを使うか？不明
+    // newが省略できるので、灰色になります。
     val p7: CasePoint = new CasePoint(10, 10)
     val p8: CasePoint = new CasePoint(100, 100)
     println(math.abs(p7.x-p8.x))
+
 ```
 
 4. 次のコードの出力結果を確認して下さい
