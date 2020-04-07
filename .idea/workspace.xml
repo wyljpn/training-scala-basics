@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="92c576d0-9bab-42fb-94f1-7f7429291251" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/03-basic-classes.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/03-basic-classes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/04-class-trait-hierarchy.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/04-class-trait-hierarchy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/05-companion-obj-and-case-class.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/05-companion-obj-and-case-class.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585808992682</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="課題04の実行結果&#10;課題05の実行結果">
+      <created>1585910634053</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585910634053</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -82,20 +90,28 @@
     <MESSAGE value="PlaygroundでHello Worldを実行した写真" />
     <MESSAGE value="1.PlaygroundでHello Worldを実行した写真&#10;2.scalaコマンドでREPLを立ち上げた写真&#10;3.IntelliJ IDEAでMain.scalaを書き換えて、sbtで実行した写真" />
     <MESSAGE value="課題02の実行結果" />
-    <option name="LAST_COMMIT_MESSAGE" value="課題02の実行結果" />
+    <MESSAGE value="課題04の実行結果&#10;課題05の実行結果" />
+    <option name="LAST_COMMIT_MESSAGE" value="課題04の実行結果&#10;課題05の実行結果" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1585808992005">
+    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1585910633652">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="372" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1585808992005" />
-    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585809008158">
+    <state x="372" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1585815558030" />
+    <state x="372" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.716@0.23.1280.716" timestamp="1585898789495" />
+    <state x="372" y="23" key="CommitChangelistDialog2/1280.23.1920.1057/0.23.1280.721@0.23.1280.721" timestamp="1585910633652" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585910680524">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1585809008158" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.23.1280.721@0.23.1280.721" timestamp="1585815571859" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/1280.23.1920.1057/0.23.1280.721@0.23.1280.721" timestamp="1585910680524" />
     <state x="17" y="104" key="new project wizard" timestamp="1585797675392">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="17" y="104" key="new project wizard/0.23.1280.721@0.23.1280.721" timestamp="1585797675392" />
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup" timestamp="1585904645833">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup/1280.23.1920.1057/0.23.1280.721@0.23.1280.721" timestamp="1585904645833" />
   </component>
 </project>
