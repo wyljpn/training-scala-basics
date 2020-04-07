@@ -104,8 +104,17 @@ sbt:kadai07> run 15
 
 ![image](https://user-images.githubusercontent.com/37242439/78628320-c744ea80-78ce-11ea-8ec6-c31bccebbee3.png)
 
-疑問：
-    Optionを使ったら、如何やってArray[File]のメソッドを呼び出すか？
+Q1: Optionを使ったら、如何やってArray[File]のメソッドを呼び出すか？
+A1: 
+```scala
+    // maybeFilesがNoneの場合には、for loopの中のコードが実行されない。
+    for (x <- maybeFiles){
+      println(x.length)
+    }
+
+    // or 
+    maybeFiles.get.length
+```
     
 5. 「実践Scala入門」第2章 p.80 例外機構のJavaコード例、`public class UsingException`をIDE上でOptionを使ってScalaに直し、ターミナル/コンソールから実行して下さい。
   - 例外を投げるかわりに`None`を返します
@@ -138,6 +147,7 @@ sbt:kadai07> run 5
 [info] running kadai07.UsingExceptionOption 5
 2.0
 ```
+
 6. [Scala 公式APIドキュメント Either](https://www.scala-lang.org/api/2.13.0/scala/util/Either.html)のコード例
 より、IDEから以下のコードをもつmainクラス/メソッドを作って実行して下さい。`readLine`に渡すターミナル/コンソールからの入力は`1`, `2`, `abc`, です。結果を貼り付けて下さい。
 
@@ -178,6 +188,7 @@ object EitherTest {
   }
 }
 ```
+
 ```
 Type a String or an Int:1
 You passed me an Int: 1, which I will increment. 1 + 1 = 2
