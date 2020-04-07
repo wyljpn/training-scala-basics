@@ -45,7 +45,7 @@ val e2 = BinOp("+", Number(4), Number(0))
 simplifyTop(BinOp("*", simplifyTop(e1), simplifyTop(e2)))
 ```
 
-```
+```scala
     // list 15.1
     abstract class Expr
     case class Var(name: String) extends Expr
